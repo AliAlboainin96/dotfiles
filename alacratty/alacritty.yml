@@ -1,0 +1,41 @@
+env:
+  TERM: xterm-256color
+
+
+# Colors (iTerm 2 default theme)
+colors:
+  # Default colors
+  primary:
+    background: '0x101421'
+    foreground: '0xfffbf6'
+
+  # Normal colors
+  normal:
+    black:   '0x2e2e2e'
+    red:     '0xff5555'
+    green:   '0x22eb56'
+    yellow:  '0xffb86C'
+    blue:    '0xbd93f9'
+    magenta: '0xff79c6'
+    cyan:    '0x8be9fd'
+    white:   '0xe5e9f0'
+
+  # Bright colors
+  bright:
+    black:   '0x565656'
+    red:     '0xff5555'
+    green:   '0x22eb56'
+    yellow:  '0xffb86C'
+    blue:    '0xbd93f9'
+    magenta: '0xff79c6'
+    cyan:    '0x8be9fd'
+    white:   '0xffffff'
+
+fonts:
+    normal:
+    family: 'Fira Code'
+    style: Regular
+    size: 10.0
+
+background_opacity: 0.6
+debug.render_timer: true

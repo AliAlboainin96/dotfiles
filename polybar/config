@@ -67,7 +67,7 @@ font-3 = Noto Color Emoji:scale=8.5:style=Regular;2
 font-4 = Symbola:pixelsize=12;1
 
 modules-left = i3 xwindow spotify
-modules-right =  memory cpu wlan volume battery date dunst xkeyboard
+modules-right =  volume memory cpu wlan battery date dunst xkeyboard
 
 tray-position = right
 tray-padding = 2
